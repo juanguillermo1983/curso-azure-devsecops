@@ -293,6 +293,25 @@
 <div style="page-break-after: always;"></div>
 
 
+## Reflexión sobre el proceso de ejecución
+
+<div style="text-align: justify; font-size: 10px; max-width: 800px; margin: auto;">
+
+
+  <p style="text-align: justify; font-size: 14px; line-height: 1.6; color: #444;">Durante la ejecución del laboratorio, tuve la oportunidad de profundizar en el uso de herramientas como Azure DevOps y Azure, lo que me permitió no solo completar las tareas asignadas, sino también comprender de manera más integral cómo se gestiona un flujo de trabajo en la nube.</p>
+
+  <p style="text-align: justify; font-size: 14px; line-height: 1.6; color: #444;">Una de las principales dificultades que enfrenté fue la configuración inicial de los pipelines en Azure DevOps. Al principio, me costó entender cómo se definían los pasos del pipeline y cómo vincularlos correctamente al repositorio del proyecto. Sin embargo, investigando la documentación oficial y haciendo pruebas iterativas, logré superar esta barrera y automatizar correctamente los procesos de integración y despliegue continuo (CI/CD).</p>
+
+  <p style="text-align: justify; font-size: 14px; line-height: 1.6; color: #444;">Otra dificultad fue la configuración de los recursos en Azure, particularmente el aprovisionamiento de máquinas virtuales y servicios asociados, donde fue necesario entender correctamente los grupos de recursos, políticas de seguridad y costos asociados. Esto me llevó a ser más consciente de la planificación de recursos y el control de versiones, elementos clave en cualquier entorno profesional.</p>
+
+  <p style="text-align: justify; font-size: 14px; line-height: 1.6; color: #444;">Las herramientas utilizadas fueron esenciales para lograr un resultado exitoso. Azure DevOps permitió gestionar el trabajo de manera estructurada mediante tableros Kanban y tareas bien definidas, mientras que Azure facilitó el despliegue ágil y seguro de los componentes del sistema, promoviendo un enfoque moderno en la entrega de soluciones.</p>
+
+  <p style="text-align: justify; font-size: 14px; line-height: 1.6; color: #444;">De este proceso aprendí la importancia de la automatización, la planificación y el monitoreo constante. También comprendí que seguir los pasos sin entender su propósito puede llevar a errores difíciles de detectar. Reflexionar sobre cada acción, validar resultados y aprovechar las herramientas disponibles me permitió mejorar mis competencias técnicas y fortalecer mi capacidad para resolver problemas en entornos reales de desarrollo y operaciones.</p>
+
+</div>
+
+
+
 <hr style="margin-top: 60px;">
 
 <p style="text-align: center; font-size: 14px; line-height: 1.6; color: #444;">
